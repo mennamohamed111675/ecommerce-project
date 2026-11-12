@@ -25,9 +25,9 @@ export default function Footer() {
         </div>
         <div>
           <h3>Contact</h3>
-          <a href="https://github.com/karimelprins" target="_blank" rel="noreferrer">GitHub</a>
-          <a href="https://www.linkedin.com/in/karim-ehab-4a10902a6" target="_blank" rel="noreferrer">LinkedIn</a>
-          <a href="mailto:karimehabmohamedmohamed@gmail.com">Email</a>
+          <a href="" target="_blank" rel="noreferrer">GitHub</a>
+          <a href="" target="_blank" rel="noreferrer">LinkedIn</a>
+          <a href="">Email</a>
         </div>
       </div>
     </footer>
